@@ -1,0 +1,2 @@
+HW:HelloWorld.c
+	gcc -Wall -o  HelloWorld.c HW
